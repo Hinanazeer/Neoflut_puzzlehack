@@ -1,6 +1,6 @@
-# neoflut_puzzle
+# Neoflut
 
-A new Flutter project.
+A new Flutter hackathon project.
 
 ## Getting Started
 
